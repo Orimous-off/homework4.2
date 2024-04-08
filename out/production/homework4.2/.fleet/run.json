@@ -1,0 +1,15 @@
+{
+    "configurations":
+    [
+        {
+        "name": "Run Java App",
+        "type": "",
+        "workingDir": "$PROJECT_DIR$",
+        "mainClass": "org.springframework.samples.petclinic.JavaApp",
+            "module": "spring-petclinic",
+            "options": [
+                "-Dfile.encoding=UTF-8"
+            ],
+        }
+    ]
+}
